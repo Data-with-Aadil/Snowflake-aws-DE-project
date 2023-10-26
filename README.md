@@ -18,3 +18,7 @@ For a more detailed explanation, please refer to the LinkedIn post.
 ---
 
 **Technologies**: Python, AWS, Snowflake, Power BI
+
+![Project Architecture](https://github.com/Data-with-Aadil/Snowflake-aws-DE-project/blob/main/image0.jpg)
+
+![End Dashboard]([https://github.com/Data-with-Aadil/Snowflake-aws-DE-project/blob/main/image0.jpg](https://github.com/Data-with-Aadil/Snowflake-aws-DE-project/blob/main/spotify-dasbhoard%20.jpg)https://github.com/Data-with-Aadil/Snowflake-aws-DE-project/blob/main/spotify-dasbhoard%20.jpg)
